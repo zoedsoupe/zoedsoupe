@@ -23,8 +23,8 @@
 
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning <i class="devicon-go-plain"></i>Golang, TDD and <i class="devicon-docker-plain-wordmark colored"></i>Docker
-- 💬 Ask me about :bomb: Science!
-- 👯 I’m looking to collaborate with community and help starter coders!
+- :bomb: Ask me about Science!
+- :family: I’m looking to collaborate with community and help starter coders!
 
 <br/>
 
@@ -50,10 +50,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
 -
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 .
 - ⚡ Fun fact: ...
