@@ -22,7 +22,7 @@
 <br/>
 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning <i class="devicon-go-plain"></i>Golang, TDD, <i class="devicon-docker-plain-wordmark colored"></i>Docker, SOLID and Haskell
+- 🌱 I’m currently learning Golang, TDD, Docker, SOLID and Functional Programming!
 - :bomb: Ask me about Science!
 - :family: I’m looking to collaborate with community and help starter coders!
 
