@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-<h1 align="center">Hi dear 👋, I'm Matheus Pessanha</h1>
+<h1>
+<p align="center"><img align="center" src="./assets/eevee.png" height="75px" /> Welcome, dear!</p>
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mdsp9070" alt="Matheus's profile views" /> </p>
 <h3 align="center">A FullStack developer and Computer Science student!</h3>
 
