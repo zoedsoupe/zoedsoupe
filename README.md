@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsp9070&&show_icons=true&theme=radical&layout=compact&langs_count=10&hide=javascript,vim" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsp9070&&show_icons=true&theme=radical&layout=compact&langs_count=10&hide=javascript,vim_script,html,c++" />
   </a>
 </p>
 
