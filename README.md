@@ -1,9 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 <h1>
-<p align="center"><img align="center" src="./assets/eevee.png" height="75px" /> Welcome, dear!</p>
+  <p align="center"><img align="center" src="./assets/eevee.png" height="75px" /> Welcome, dear!</p>
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mdsp9070" alt="Matheus's profile views" /> </p>
-<h3 align="center">A FullStack developer and Computer Science student!</h3>
+<h3 align="center">A Software Engineer and Computer Science student!</h3>
 
 <br/>
 
@@ -24,7 +23,6 @@
 <br/>
 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning Elixir, Docker and Functional Programming!
 - :bomb: Ask me about Science!
 - :family: I’m looking to collaborate with community and help starter coders!
 
@@ -55,16 +53,3 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=mdsp9070&&show_icons=true&theme=radical">
   </a>
 </p>
-
-<!--
-**Mdsp9070/Mdsp9070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-.
-- ⚡ Fun fact: ...
--->
