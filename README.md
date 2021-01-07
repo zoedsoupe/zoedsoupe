@@ -2,7 +2,7 @@
 
 ## A Software Engineer and Computer Science student!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mdsp9070) ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
+![Profile Views](https://komarev.com/ghpvc/?username=Mdsp9070) ![status](https://img.shields.io/badge/status-up-brightgreen)
 
 <div style="display: flex; justify-content: space-between; align-itens: center; width: 40%; margin: 0 auto;">
   <a href="https://twitter.com/matdsoupe">
