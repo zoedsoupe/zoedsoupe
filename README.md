@@ -28,7 +28,7 @@ I'm current doing a intership on @boostingtech!
 
 Don't call me a programmer, call me as a problem solver (and a dark vimmer hacker haha)!
 
-## 💡 Projects with My Work
+## 💡 Public projects with My Work
 
 - [junex](https://github.com/boostingtech/junex): Interact with Juno API in a cool piping way!
 - [typescript4noobs](https://github.com/Carolis/typescript4noobs): Master Typescript fundamentals!
