@@ -34,7 +34,7 @@ def matheus do
     name: "Matheus de Souza Pessanha",
     pronouns: :any,
     age: 19,
-    work-place: "Boosting.tech",
+    work_place: "Boosting.tech",
     education: ~w(functionprogramming, emacs,
                   opensource, math, numetal,
                   puns, animes, teach),
@@ -43,6 +43,8 @@ def matheus do
   }
 end
 ```
+
+<br/>
 
 Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (and an enacs sourcery haha)!
 
