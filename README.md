@@ -22,11 +22,29 @@
 </br>
 </br>
 
-Hello! I'm Matheus - aka Matthew - I'm from Brazil and well... I love coding!
+<img src="https://github.com/Mdsp9070/Mdsp9070/blob/master/assets/functional.jpg"
+     alt="Functional way is the right way"
+     style="margin-top:20px;"
+     height="305px"
+     align="left" />
 
-I'm current doing a intership on @boostingtech!
+```elixir
+def matheus do
+  %{
+    name: "Matheus de Souza Pessanha",
+    pronouns: :any,
+    age: 19,
+    work-place: "Boosting.tech",
+    education: ~w(functionprogramming, emacs,
+                  opensource, math, numetal,
+                  puns, animes, teach),
+   city: "Campos dos Goytacazes, RJ, BR",
+   langs: ~w(portuguese, english)    
+  }
+end
+```
 
-Don't call me a programmer, call me as a problem solver (and a dark vimmer hacker haha)!
+Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (and an enacs sourcery haha)!
 
 ## 💡 Public projects with My Work
 
