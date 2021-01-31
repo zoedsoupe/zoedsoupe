@@ -36,7 +36,7 @@ def matheus do
     age: 19,
     work_place: "Boosting.tech",
     education: ~w(IFF UENF),
-    interests: ~w(functionprogramming, emacs,
+    interests: ~w(functionalprogramming, emacs,
                   opensource, math, numetal,
                   puns, animes, teach),
    city: "Campos dos Goytacazes, RJ, BR",
@@ -45,7 +45,7 @@ def matheus do
 end
 ```
 
-<br/>
+<br/> <br/>
 
 Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (and an enacs sourcery haha)!
 
@@ -53,6 +53,8 @@ Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (a
 
 - [junex](https://github.com/boostingtech/junex): Interact with Juno API in a cool piping way!
 - [typescript4noobs](https://github.com/Carolis/typescript4noobs): Master Typescript fundamentals!
+- [devit](https://github.com/Mdsp9070/devit): Post your dev.to article without leaving out of terminal!
+- [lovelace_bot](https://github.com/cciuenf/lovelace_bot): A Telegram bot to interact in the computer science group.
 
 ### Recently I'm coding in...
 
