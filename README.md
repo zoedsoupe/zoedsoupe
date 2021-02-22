@@ -47,7 +47,7 @@ end
 
 <br/> <br/>
 
-Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (and an enacs sourcery haha)!
+Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (and an Emacs sourcery haha)!
 
 ## 💡 Public projects with My Work
 
