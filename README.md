@@ -58,9 +58,11 @@ Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (a
 
 ### Recently I'm coding in...
 
+<!-- &hide=c%2B%2B,dart,html,css,javascript,go,c,python -->
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsp9070&&show_icons=true&theme=radical&layout=compact&langs_count=15&exclude_repo=Analyseroom,&hide=c%2B%2B,dart,html,css,javascript,go,c,python" alt="top languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsp9070&&show_icons=true&theme=radical&layout=compact&langs_count=15&exclude_repo=Analyseroom" alt="top languages"/>
   </a>
 </p>
 
