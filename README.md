@@ -15,7 +15,7 @@
     <img align="left" alt="Matheus | Telegram" width="30px" src="./assets/telegram.svg" />
   </a>
   <a href="https://www.instagram.com/matheww.sp/">
-    <img align="left" alt="Matheus | Instagram" width="30px" src="./assets/instagram.svg" />
+    <img align="left" alt="Matheus | Instagram" width="30px" src="./assets/ig.svg" />
   </a>
   <a href="https://dev.to/mdsp9070/">
     <img align="left" alt="Matheus | Dev.to" width="30px" src="./assets/dev-dot-to.svg" />
