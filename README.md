@@ -51,10 +51,11 @@ Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (a
 
 ## 💡 Public projects with My Work
 
-- [junex](https://github.com/boostingtech/junex): Interact with Juno API in a cool piping way!
-- [typescript4noobs](https://github.com/Carolis/typescript4noobs): Master Typescript fundamentals!
-- [devit](https://github.com/Mdsp9070/devit): Post your dev.to article without leaving out of terminal!
-- [lovelace_bot](https://github.com/cciuenf/lovelace_bot): A Telegram bot to interact in the computer science group.
+- 🇨🇦 [junex](https://github.com/boostingtech/junex): Interact with Juno API in a cool piping way!
+- 🇧🇷 [typescript4noobs](https://github.com/Carolis/typescript4noobs): Master Typescript fundamentals!
+- 🇨🇦 [devit](https://github.com/Mdsp9070/devit): Post your dev.to article without leaving out of terminal!
+- 🇧🇷 [lovelace_bot](https://github.com/cciuenf/lovelace_bot): A Telegram bot to interact in the computer science group.
+- 🇧🇷 [estrutura de dados](https://github.com/Mdsp9070/estrutura_de_dados): Implementation of Data Structres and Algorithms in Haskell!
 
 ### Recently I'm coding in...
 
@@ -68,8 +69,8 @@ Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (a
 
 ### Wow, look at these stats!
 
-<p align="center" >
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api?username=mdsp9070&&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdsp9070&&show_icons=true&theme=radical" style="width: auto;">
   </a>
 </p>
