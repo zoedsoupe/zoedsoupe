@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mdsp9070) ![status](https://img.shields.io/badge/status-up-brightgreen)
 
-<div style="display: flex; justify-content: space-between; align-itens: center; width: 40%; margin: 0 auto;">
+<div align="center" style="display: flex; justify-content: space-between; align-itens: center; width: 40%; margin: 0 auto;">
   <a href="https://twitter.com/matdsoupe">
     <img align="left" alt="Matheus| Twitter" width="30px" src="./assets/twitter.svg" />
   </a>
