@@ -71,6 +71,6 @@ Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (a
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdsp9070&&show_icons=true&theme=radical" style="width: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdsp9070&&show_icons=true&theme=radical" style="width: 510px; height: 205px;">
   </a>
 </p>
