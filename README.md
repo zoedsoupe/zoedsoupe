@@ -39,18 +39,18 @@ def matheus do
     age: 19,
     work_place: "Boosting.tech",
     education: ~w(IFF UENF),
-    interests: ~w(functionalprogramming, emacs,
-                  opensource, math, numetal,
-                  puns, animes, teach),
+    interests: ~w(functionalprogramming emacs
+                  opensource math numetal
+                  puns animes teach),
    city: "Campos dos Goytacazes, RJ, BR",
-   langs: ~w(portuguese, english)    
+   langs: ~w(portuguese english)    
   }
 end
 ```
 
 <br/> <br/>
 
-Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (and an Emacs sourcery haha)!
+Don't call me a programmer, call me as a problem solver, an Emacs sourcery (and a dark vimmer hacker haha)!
 
 ## 💡 Public projects with My Work
 
@@ -61,8 +61,6 @@ Don't call me a programmer, call me as a problem solver, a dark vimmer hacker (a
 - 🇧🇷 [estrutura de dados](https://github.com/Mdsp9070/estrutura_de_dados): Implementation of Data Structres and Algorithms in Haskell!
 
 ### Recently I'm coding in...
-
-<!-- &hide=c%2B%2B,dart,html,css,javascript,go,c,python -->
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
