@@ -64,7 +64,7 @@ Don't call me a programmer, call me as a problem solver, an Emacs sourcery (and 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsp9070&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=30&langs_count=15&exclude_repo=Analyseroom&hide=c%2B%2B,dart,html,css,javascript," alt="top languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdsoupe&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=30&langs_count=15&exclude_repo=Analyseroom&hide=c%2B%2B,dart,html,css,javascript," alt="top languages"/>
   </a>
 </p>
 
@@ -72,6 +72,6 @@ Don't call me a programmer, call me as a problem solver, an Emacs sourcery (and 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdsp9070&&hide_border=true&border_radius=30&hide_title=true&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=matdsoupe&&hide_border=true&border_radius=30&hide_title=true&show_icons=true&theme=radical">
   </a>
 </p>
