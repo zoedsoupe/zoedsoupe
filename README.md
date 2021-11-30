@@ -17,7 +17,7 @@
 def matheus do
   %{
     name: "Matheus de Souza Pessanha",
-    pronouns: :any,
+    pronouns: ~w(she they),
     age: 20,
     work_place: "Solfácil",
     education: ~w(IFF UENF),
