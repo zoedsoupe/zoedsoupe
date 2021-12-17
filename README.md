@@ -16,7 +16,7 @@
 ```elixir
 def matheus do
   %{
-    name: "Matheus de Souza Pessanha",
+    name: "Zoey de Souza Pessanha",
     pronouns: ~w(she they),
     age: 20,
     work_place: "Solfácil",
