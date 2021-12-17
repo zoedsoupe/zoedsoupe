@@ -14,7 +14,7 @@
      align="left" />
 
 ```elixir
-def matheus do
+def zoey do
   %{
     name: "Zoey de Souza Pessanha",
     pronouns: ~w(she they),
