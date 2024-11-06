@@ -15,8 +15,8 @@ def zoey do
   %{
     name: "Zoey de Souza Pessanha",
     pronouns: ~w(she they),
-    age: 21,
-    work_place: "Nubank",
+    age: 23,
+    work_place: "",
     education: ~w(IFF UENF Unisul),
     interests: ~w(functionalprogramming emacs
                   opensource math numetal
