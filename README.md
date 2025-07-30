@@ -1,108 +1,77 @@
-# <img align="center" src="./assets/eevee.png" height="75px" /> welcome, dear
+# <img align="center" src="./assets/nyx-mascot-transparent.png" height="70px" /> hey there, i'm zoey(rinha)
 
-## who am i?
-
-a travesty 🏳️‍⚧️ software engineer, open-source maintainer, and passionate functional programming enthusiast.  
-
-i craft scalable backend systems with **elixir**, blending abstraction and pragmatism to solve real-world problems. my career has centered on **fintech solutions**, where ideas like **pix**, **drex**, and **open finance** inspire me to build reliable and accessible financial tools.  
-
-beyond work, i'm drawn to the elegance of **category theory** and **abstract algebra**, finding joy in understanding the structures that underpin computation. i'm deeply connected to the **elixir community**, contributing open-source tools and creating spaces for learning, sharing, and collaboration.  
-
-my projects reflect what i value: developer tooling, interactive learning platforms, and systems built with clarity and intention.  
-
-minimalism, abstraction, and community guide everything i do.  
-
----
-
-<img src="./assets/functional.jpg"
-     alt="functional way is the right way"
-     style="margin-top:20px;"
-     height="305px"
-     align="left" />
+<div align="left">
+  <img src="./assets/functional.jpg"
+       alt="functional way is the right way"
+       height="250px" />
+</div>
 
 ```elixir
 def zoey do
   %{
     name: "zoey de souza pessanha",
     pronouns: ~w(she they),
-    city: "campos dos goytacazes, rj, br",
-    age: 23,
-    interests: ~w(functionalprogramming open_source
-                  category_theory numetal goth_metal
-                  goth trans_community),
-    systems: ~w(nixos helix macos),
-    langs: ~w(elixir haskell clojure),
-    other: ~w(community_building math puns)
+    location: "campos dos goytacazes, rj, br",
+    age: 24,
+    identity: ~w(travesty transfem gothic),
+    passions: ~w(functional_programming open_source
+                 abstract_algebra community_building),
+    music: ~w(numetal industrial_metal goth_metal emo electronic),
+    tools: ~w(elixir haskell clojure nixos helix),
+    believes_in: "the functional way is the right way"
   }
 end
 ```
 
-## professional experience
+---
 
-### <img src="./assets/logo_cumbuca.png" alt="Cumbuca logo" height="45px" align="center" /> **Cumbuca** | senior software engineer  
+## about me
 
-- led development of elixir-based credit card processing systems for high-availability environments.  
-- optimized ci/cd pipelines to streamline deployments.  
-- mentored junior developers and improved architecture for scalability.  
+i'm a travesty software engineer from brazil who fell in love with functional programming and never looked back. i spend my days crafting elegant abstractions, maintaining open source projects, and co-hosting [elixir em foco](https://elixiremfoco.com), brazil's first elixir podcast.
 
-### <img src="./assets/logo_nubank.jpeg" alt="Nubank logo" height="45px" align="center" /> **Nubank** | software engineer  
-
-- contributed to new fintech features, improving user engagement and system performance.  
-- implemented scalable microservices architecture for better maintainability.  
-
-### <img src="./assets/logo_elixiremfoco.png" alt="Elixir em Foco logo" height="45px" align="center" /> **Elixir em Foco** | podcast co-host  
-
-- co-host of brazil's first elixir podcast, fostering knowledge exchange and inclusivity.  
-- organized workshops and webinars promoting functional programming.  
-- https://elixiremfoco.com
-
-### <img src="./assets/logo_pescarte.png" alt="PEA Pescarte logo" height="45px" align="center" /> **PEA Pescarte** | software engineer  
-
-- developed a social platform for artisanal fishermen using elixir and phoenix liveview.  
-- led open-source initiatives supporting local cooperatives.  
-- https://pescarte.org.br
-
-### <img src="./assets/logo_solfacil.jpeg" alt="Solfácil logo" height="45px" align="center" /> **Solfácil** | backend elixir developer  
-
-- designed microservices architecture to improve scalability and reliability.  
-- implemented fault-tolerant systems for high-volume payment processing.  
-
-### **Boosting.tech** | fullstack developer (intern)
-
-- built customer service applications with enhanced ux/ui and reduced latency.  
-- developed responsive frontend interfaces and reliable web apis.  
+my code philosophy is simple: if it can be pure, make it pure. if it can be composable, make it composable. if it can help someone, make it open source.
 
 ---
 
-## open-source projects
+## what i'm into
 
-**peri**
-[github.com/zoedsoupe/peri](https://github.com/zoedsoupe/peri)
+**music that moves me**
 
-lightweight data validation library for elixir without ecto, designed for pure schemas.
+from the industrial power of rammstein to the hypnotic rhythms of mamba negra's dark psytrance, and the raw energy of brazilian funk (rj/sp style). music is how i process the world.
 
-**supabase maintainer (elixir)**
-[supabase-community](https://github.com/supabase-community)  
+**deconstructing society**
 
-main maintainer for elixir libraries supporting supabase, including `gotrue-ex`, `storage-ex`, and `postgrest-ex`.
+fascinated by how we construct and reconstruct concepts like religion and gender. i love diving deep into social theory and understanding the systems that shape us (and ruin it up).
 
-**plataforma-pescarte**
-[pescarte.org.br](https://pescarte.org.br)
-[github.com/peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma)
+**building communities**
 
-a comprehensive web platform with both private and public features, including a graphql api, designed to digitize the PEA Pescarte. 
+technology is better when we build it together. whether through podcasts, open source, or helping artisanal fishing communities go digital, i believe in tech that connects people.
 
-**nexus**
-[github.com/zoedsoupe/nexus](https://github.com/zoedsoupe/nexus)
+**the elixir ecosystem**
 
-a declarative framework to create CLIs and build modern TUIs with elixir.
+from maintaining supabase libraries to creating developer tools, i'm deeply invested in making elixir more accessible and powerful for everyone.
 
-**exlings**
-[github.com/zoedsoupe/exlings](https://github.com/zoedsoupe/exlings)
+**math (but make it approachable)**
 
-an interactive CLI tool to learn elixir through exercises, inspired by rustlings.
+i find beauty in mathematical concepts even though i'm still learning. there's poetry in patterns, even when the proofs escape me.
 
-**estrutura_de_dados**
-[github.com/zoedsoupe/estrutura_de_dados](https://github.com/zoedsoupe/estrutura_de_dados)
+---
 
-a collection of data structures and algorithms implemented in haskell. currently only in portuguese.
+## find me elsewhere
+
+i mean... i'm not really a fan of social networks anymore, i think we're going into the wrong direction as society considering the current economical system, but, you can find me here:
+
+<div align="center">
+
+[![elixir em foco](https://img.shields.io/badge/podcast-elixir_em_foco-4B275F?style=for-the-badge)](https://elixiremfoco.com)
+[![bluesky](https://img.shields.io/badge/bluesky-@zoedsoupe.zeetech.io-00A8E8?style=for-the-badge)](https://bsky.app/profile/zoedsoupe.zeetech.io)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/nyx-mascot.png" height="44px" />
+  <br>
+  <sub>nyx says: "embrace the darkness of imperative code, then transcend it with functional elegance"</sub>
+</div>
