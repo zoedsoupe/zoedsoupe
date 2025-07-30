@@ -1,10 +1,9 @@
 # <img align="center" src="./assets/nyx-mascot-transparent.png" height="70px" /> hey there, i'm zoey(rinha)
 
-<div align="left">
-  <img src="./assets/functional.jpg"
-       alt="functional way is the right way"
-       height="250px" />
-</div>
+<img src="./assets/functional.jpg"
+     alt="functional way is the right way"
+     align="left"
+     height="250px" />
 
 ```elixir
 def zoey do
